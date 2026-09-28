@@ -3,7 +3,7 @@
 $mensaje = "Hola";
 
 // Añadir "Mundo"
-$mensaje .= " Mundo";
+$mensaje .= " Micky";
 echo "<br>";
 
 // Añadir "Maravilloso"
